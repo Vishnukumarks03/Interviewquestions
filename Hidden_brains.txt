@@ -1,1 +1,16 @@
-
+1. What is POD
+2. Types of K8s service
+3. Client can't afford load balancer how can we achieve it without compromising on load balancer feature
+4. Type of deployment strategies - explain canary blue green AB
+5. Suggestion for cost optimization for client
+6. Moving EKS from account to another account without affecting availability. How do you do it what are the factors
+7. Maven handson
+8. Jenkins handson
+9. Jfrog handson 
+10. Must terraform and jenkins
+11. Ansible handson
+12. CICD flow
+13. Persistent volume and PVC and how do you create partition. How many partition 
+14. Disaster recovery
+15. HPA vs Vertical scaling VS Horizontal scaling
+16. Merge request going to happen in sonarqube found out more than 50% vulnerability in the code will it allow code to get it through 
