@@ -1,3 +1,5 @@
+Interview date 24-Feb-2024
+
 1. What is POD
 2. Types of K8s service
 3. Client can't afford load balancer how can we achieve it without compromising on load balancer feature
